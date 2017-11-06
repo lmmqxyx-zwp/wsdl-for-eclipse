@@ -1,7 +1,7 @@
 # wsdl-for-eclipse
-web service 服务端、客户端
-\\
-<h3>工程就够</h3>
+web service 服务端、客户端 <br />
+\\ —— //
+<h5>工程结构</h5>
 <ul>
   <li>webservice 服务端工程</li>
   <li>webserviceClient 客户端工程</li>
